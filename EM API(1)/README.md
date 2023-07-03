@@ -6,4 +6,4 @@
 
 如果示例一无法运行，请检查是否安装win32com库。
 
-有问题欢迎随时讨论，请邮件shijianyc@163.com或至https://www.garenstudio.top/index.php/archives/7处评论或留言！
+有问题欢迎随时讨论，请邮件shijianyc@163.com或至https://www.garenstudio.top/index.php/archives/7 处评论或留言！
